@@ -1,7 +1,7 @@
-# Unit Review: Age Calculator Project
+# Unit Review: Vending Machine Project
 
 ## Project Description
-In this mini-project, you will use  JavaScript concepts like variables, operators, and data types to build an interactive website that calculates age.You will likely also need to access and use the dev tools.
+In this mini-project, you will use you knowledge of conditional statements to build a vending machine app.
 
 Follow the steps below to make your very own site! 
 Make sure to check off your items as you complete them. [ ] => [x]
@@ -9,17 +9,17 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 1
 
 ### Set-Up
-- [x] Go to the repository at https://github.com/itscodenation/age-calculator-starter
+- [x] Go to the repository at https://github.com/itscodenation/vending-machine-starter
 - [x] Fork this repository to your Github account and pull it down to Glitch.
 - [ ] Add, commit, and push your changes.
 
 ### JavaScript
-- [ ] Create a new variable that stores the user's birth year.
-- [ ] This variable should hold the birth year that the user inputs on the page.
-- [ ] Create a new variable to store the age of the user. 
-- [ ] Calculate the user's age by subtracting their birth year from the year you live in today. Store the result in the age variable.
-- [ ] Append the user's age to the message div.
-- [ ] Add a name input so the app can display a more personalized message.
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 ### Wrap
