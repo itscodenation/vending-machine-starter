@@ -1,11 +1,15 @@
-img {
-    width: 500px;
+.layout {
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 5px;
 }
 
 body {
-    background-color: #D5D3D2;
-}
-
-div {
-    text-align: center;
+    background: #fee974;
 }
