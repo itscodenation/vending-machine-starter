@@ -26,6 +26,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Save and submit your website link using the link on the session agenda.
 
 ### Project Extensions
+- [ ] Display the items you've already purchased
 - [ ] Add additional items to purchase
 - [ ] A way to add more money to your total
 - [ ] A way to get a refund
