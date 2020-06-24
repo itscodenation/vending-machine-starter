@@ -1,7 +1,7 @@
 # Unit Review: Vending Machine Project
 
 ## Project Description
-In this mini-project, you will use you knowledge of conditional statements to build a vending machine app.
+In this mini-project, you will use your knowledge of conditional statements to build a vending machine app.
 
 Follow the steps below to make your very own site! 
 Make sure to check off your items as you complete them. [ ] => [x]
