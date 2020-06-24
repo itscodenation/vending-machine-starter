@@ -14,12 +14,11 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add, commit, and push your changes.
 
 ### JavaScript
-- [ ] Declare variables to track money and the number of each snack item.
-- [ ] Write a conditional statement for each user selection
-- [ ] The webpage displays the user purchase and their remaining cash.
-- [ ] The webpage should accurately keep track of the money that is spent and what money is leftover
-- [ ] The webpage accurately displays the the # of items purchased
-- [ ] The webpage prohibits users from purchasing items that they can't afford.
+- [ ] Declare variables to track the user's remaining money and the total number of each snack item that has been puchased.
+- [ ] Write a conditional statement for each user puchase.
+- [ ] The webpage should display the purchased item and the money spent for the purchase that has been made.
+- [ ] The webpage should accurately keep track of and display the money remaining in user's wallet.
+- [ ] The webpage should prohibit users from purchasing items that they can't afford.
 
 
 ### Wrap
